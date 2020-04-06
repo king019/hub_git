@@ -1,2 +1,1 @@
-# hub_git
-hub_git
+git clone https://github.com/king019/hub_frame.git
