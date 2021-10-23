@@ -1,3 +1,3 @@
 cd ../
 
-git clone https://github.com/king019/hub_frame.git
+git clone https://gitee.com/king019/hub_frame.git
